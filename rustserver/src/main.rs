@@ -1,5 +1,3 @@
-//https://doc.rust-lang.org/stable/rust-by-example/
-//https://doc.rust-lang.org/std/net/struct.TcpListener.html
 use std::str::FromStr;
 use std::io::Write;
 use std::net::{TcpListener, TcpStream};
